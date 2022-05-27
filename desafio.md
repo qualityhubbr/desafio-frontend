@@ -14,6 +14,11 @@ Deverá ter um gráfico de pizza de acordo com número de pokemons de cada tipo.
 
 Deverá ter um gráfico de barras. Mostrando no eixo X a quantidade de habilidade, 1, 2, 3 ou 4, e no eixo Y a quantidade de pokemons com aquela quantidade de habilidades. Para ver a quantidade de habilidades, é só ver o tamanho do atributo do pokémon `abilites`.
 
+Imagem com uma idéia de layout ilustrando os dois blocos.
+
+![image](https://user-images.githubusercontent.com/308200/170794502-8ec88240-f69f-4db7-87da-46bc6df87bbf.png)
+
+
 ### Lista de pokémons
 
 Deverá fazer uma lista utilizando o método de sua preferência (lista de cards, tabela, etc). Esta lista deverá conter:
