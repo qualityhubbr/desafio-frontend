@@ -25,8 +25,8 @@ Deverá fazer uma lista utilizando o método de sua preferência (lista de cards
 
 ## Dica: Pegando os dados da API
 
-Para buscar os dados, primeiro é necessário buscar todos os 151 pokémons, que são os pokémons clássicos da primeira geração. Na api de regiões existe um link para a Pokédex completa dessa região: (https://pokeapi.co/api/v2/pokedex/2/)
+Para buscar os dados, primeiro é necessário buscar todos os 151 pokémons, que são os pokémons clássicos da primeira geração. (https://pokeapi.co/api/v2/pokemon?limit=151)
 
-Após buscar estes dados. Os pokémons estarão no atributo `pokemon_entries[]`.
+Após buscar estes dados. Os pokémons estarão no atributo `results[]`.
 
-Para buscar os dados individuis com todos os atributos listados dos pokémons, é só chamar a url contida em cada entrada de pokémon: `pokemon_entries[].pokemon_species.url`
+Para buscar os dados individuis com todos os atributos listados dos pokémons, é só chamar a url contida em cada entrada de pokémon: `results[].url`
