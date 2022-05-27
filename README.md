@@ -18,10 +18,11 @@ A startup acredita que pode existir uma união entre design/design thinking e en
 
 Na parte de desenvolvimento e tecnologia somos apaixonados pela cultura maker e hackear coisas.
 Nós somos responsáveis por todo (enorme) stack tecnológico que é composto pelas seguintes partes:
-   - Frontend - **HTML/CSS/JS com framework (react.js)** - Nossos dashboards com as análises de dados
+   - Frontend - **Javascript com framework (react.js)** - Nossos dashboards com as análises de dados. Utilizamos uma biblioteca de componentes para evitar ficar escrevendo html/css: (https://ant.design/docs/react/introduce). Para gráficos utilizamos a biblioteca recharts: (https://recharts.org/en-US/)
    - Backend - **Node.js com framework (sails.js)** - Nosso backend que faz toda a transformação de dados.
    - App QualityHub - **Javascript com framework React-native** - Nosso app para coleta de dados.
    - QualitySensor - **C** - Utilizando nosso próprio hardware que é um processador ARM Cortex-M+ com o Zephyr OS
+
 
 ## Requisitos para fazer parte da indWise:
 - Amar programar, principalmente programação web

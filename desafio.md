@@ -35,3 +35,7 @@ Para buscar os dados, primeiro é necessário buscar todos os 151 pokémons, que
 Após buscar estes dados. Os pokémons estarão no atributo `results[]`.
 
 Para buscar os dados individuais com todos os atributos listados dos pokémons, é só chamar a url contida em cada entrada de pokémon: `results[].url`
+
+## Dica 2: Layout
+
+Utilizamos as bibliotecas de componentes Antd e Recharts. Estas bibliotecas já possuem guias de utilização que resolvem a maior complexidade de se fazer um layout bonito. Lendo a documentação é possível entregar alto qualidade com pouco esforço.
